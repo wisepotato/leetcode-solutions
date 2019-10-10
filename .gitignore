@@ -1,1 +1,13 @@
 .vs
+
+#  debugging
+custom/*/Debug/*
+custom/*/.vs
+
+# Problems
+
+*/obj/Debug/*
+*/obj/*
+*/bin/*
+builds/cs/*
+!builds/cs/.gitkeep
