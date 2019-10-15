@@ -11,3 +11,7 @@ custom/*/.vs
 */bin/*
 builds/cs/*
 !builds/cs/.gitkeep
+
+
+# custom
+custom/*/*/obj/**
